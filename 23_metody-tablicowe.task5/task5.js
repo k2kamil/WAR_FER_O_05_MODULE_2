@@ -5,4 +5,4 @@ let users = [
   {id: 4, username: "Ewa"}
 ];
 
-
+console.log(users.sort());

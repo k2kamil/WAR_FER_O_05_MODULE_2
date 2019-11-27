@@ -15,4 +15,3 @@ multiply([1,1,1,1]) => 1
 multiply([2,8,3,7]) => 336
 multiply([]) => null
 ```
-

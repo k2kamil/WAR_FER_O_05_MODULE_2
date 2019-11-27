@@ -11,9 +11,9 @@ order.addPosition(productMouse, 2);
 order.addPosition(productKeybord, 4);
 order.addPosition(productPrinter,1);
 
-let client = new Client("John Black");
-let order = new Order(client, "ZO/0002");
+client = new Client("John Black");
+order = new Order(client, "ZO/0002");
 order.addPosition(productMouse, 2);
 order.addPosition(productKeybord, 4);
 order.addPosition(productPrinter,1);
-
+order.countTotalValue();

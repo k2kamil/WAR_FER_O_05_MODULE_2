@@ -7,3 +7,6 @@ Zadanie
   
   Wykorzystajcie do tego metodę tablicową reduce.
 
+let sumArray(arr) = function (){
+    
+}
